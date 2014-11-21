@@ -1,4 +1,5 @@
 require "chicago_crime/version"
+require "chicago_crime/crime"
 require 'unirest'
 module ChicagoCrime
   BASE_URL = "http://data.cityofchicago.org/resource/ijzp-q8t2.json"

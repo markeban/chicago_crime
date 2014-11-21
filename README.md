@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-Chicago_crime.all
+ChicagoCrime.all
+
+Current attributes include case_number, block, primary_type, date, community_area
 
 ## Contributing
 
